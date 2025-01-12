@@ -18,6 +18,8 @@ function calculateBMI() {
     
     result.textContent = `Your BMI is ${bmi}`;
 
+    result.style.color = "black";
+
 
 
     if(weight > 650 || height > 300 ){
