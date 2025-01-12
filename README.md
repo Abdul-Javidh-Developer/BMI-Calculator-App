@@ -1,0 +1,9 @@
+#BMI Calculator App
+
+Technologies Used: 
+
+1. Html --> Create a Web Page for this App...
+
+2. Css --> Adding a Style for this Web Page...
+
+3. Javascript --> Adding functionalities to this is Web Page...
