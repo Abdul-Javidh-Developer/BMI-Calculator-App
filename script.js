@@ -23,7 +23,8 @@ function calculateBMI() {
 
 
     if(weight > 650 || height > 300 ){
-        result.textContent = "Invalid Weight and Height"
+        result.textContent = "Invalid Weight and Height";
+        result.style.color = "red";
     }else if (bmi < 18.5)
         {
             alert("You are underweight.");
